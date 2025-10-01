@@ -1,6 +1,5 @@
 
 
-
 l
 
 ## HELLO VEDIC MATHS
