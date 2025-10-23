@@ -4,7 +4,6 @@
 # Project Name: Random Fun
 
 
-
 Welcome to the *Random Fun* project! This is a whimsical repository designed to bring a spark of joy and creativity to your day.
 
 ## Features
